@@ -16,7 +16,8 @@
 		android:layout_marginBottom="20dp"
 		android:inputType="textCapWords"
 		android:singleLine="true"
-		android:imeOptions="actionDone" >
+		android:imeOptions="actionDone"
+		android:text="Android" >
 	</EditText>
 	<Button
 		android:id="@+id/mainSearchButton"
